@@ -56,6 +56,33 @@ The notebook requires Python 3 and standard packages available in Google Colab. 
 
 The lecture slides contain selected figures from the textbook for review with the publisher's permission to be confirmed before public redistribution. The notebook, workbook and exercises are newly authored companion materials. Do not upload the entire textbook PDF to this repository. The use of a textbook figure in this draft is not a statement that online redistribution rights have been granted.
 
+## How to cite this book
+
+When using these companion resources in coursework, reports, publications or professional documentation, cite the **textbook** as the primary reference. Cite individual companion files separately if you reproduce or substantially adapt their material.
+
+**APA 7th edition**
+
+Mahendra, A., Adinandra, S., & Wisudawan, H. N. P. (2026). *Intelligent video analytics: Surveillance, safety, and operational efficiency*. Mercury Learning and Information.
+
+**IEEE**
+
+A. Mahendra, S. Adinandra, and H. N. P. Wisudawan, *Intelligent Video Analytics: Surveillance, Safety, and Operational Efficiency*. Boston, MA, USA: Mercury Learning and Information, 2026.
+
+**BibTeX**
+
+```bibtex
+@book{mahendra2026intelligentvideoanalytics,
+  author    = {Mahendra, Adhiguna and Adinandra, Sisdarmanto and Wisudawan, Hasbi Nur Prasetyo},
+  title     = {Intelligent Video Analytics: Surveillance, Safety, and Operational Efficiency},
+  publisher = {Mercury Learning and Information},
+  year      = {2026},
+  isbn      = {9781501523427}
+}
+```
+
+For references to this chapter, include the relevant section or page numbers in the in-text citation as required by the citation style. The book's Chapter 1 occupies printed pages 1 to 21.
+
+
 ## License and updates
 
 Companion files are supplied for education and evaluation. A definitive software/content license should be added to the repository after confirming the publisher agreement and author rights. File issues with a reproducible example, the affected file, the expected result and your actual result.
